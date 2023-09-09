@@ -1,0 +1,7 @@
+.country{
+    border:2px solid skyblue;
+    margin: 15px;
+    border-radius: 15px;
+}
+.visited{background-color: aqua; color:rgb(143, 69, 9)} 
+.visited2{background-color: rgb(230, 160, 204);}
